@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React,Nextjs,Prisma**
 
-- 📫 How to reach me **nirob427417@gmail.com**
+- 📫 How to reach me **nirobhossainalip@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,5 +34,7 @@
 
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nirob844&theme=default" alt="nirob844" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirob844&" alt="nirob844" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirob844&layout=donut" alt="nirob844" /></p>
+
+<p><img align="center" src="https://streak-stats.demolab.com?user=nirob844&card_width=330" alt="nirob844" /></p>
 
