@@ -1,22 +1,26 @@
-<h1 align="center">Hi 👋, I'm Nirob Hossain</h1>
-<h3 align="center">Backend Software Engineer | Node.js · NestJS · TypeScript · PostgreSQL</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirob844&label=Profile%20views&color=0e75b6&style=flat" alt="nirob844" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nirob844&margin-w=10&no-bg=true&row=1" alt="nirob844" />
-  </a>
-</p>
+# Hi there, I'm Nirob Hossain 👋
+
+### Backend Software Engineer
+**Node.js · NestJS · TypeScript · PostgreSQL**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=nirob844&label=Profile%20views&color=00e5a0&style=flat)](https://github.com/nirob844)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirob-hasan-156ab9258/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nirobhossainalip@gmail.com)
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working as **Backend Developer @ Softvence Delta**
-- 🌱 Currently deepening knowledge in **Microservices, Go (Gin), and Cloud (AWS)**
-- 💡 Passionate about **Clean Architecture, SOLID principles, and scalable SaaS systems**
+- 🌱 Deepening knowledge in **Microservices, Go (Gin), and Cloud (AWS)**
+- 💡 Passionate about **Clean Architecture, SOLID principles & Scalable SaaS systems**
 - 🎓 B.Sc. in Software Engineering — **Daffodil International University** *(2022 – 2025)*
 - 📫 Reach me at **nirobhossainalip@gmail.com**
+- ⚡ Fun fact: I think in systems, not just code
 
 ---
 
@@ -44,50 +48,60 @@
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Project
 
+<table>
+<tr>
+<td width="100%">
+
 ### 📚 LMS Backend Platform
-> A SaaS-ready Learning Management System backend
+> A SaaS-ready Learning Management System backend built for scale
 
-**Tech Stack:** NestJS · TypeScript · PostgreSQL · Redis · BullMQ · Socket.IO · Docker
+**Tech Stack:** `NestJS` `TypeScript` `PostgreSQL` `Redis` `BullMQ` `Socket.IO` `Docker`
 
-- ✅ Scalable modular architecture with Clean Architecture principles
-- ✅ RBAC (Role-Based Access Control) for multi-role users
+- ✅ Scalable modular architecture with **Clean Architecture** principles
+- ✅ **RBAC** (Role-Based Access Control) for multi-role user management
 - ✅ Event-driven background jobs for async processing & notifications
-- ✅ Secure RESTful APIs for course management, enrollment & assessments
-- ✅ Dockerized for production-ready deployment
+- ✅ Secure **RESTful APIs** for course management, enrollment & assessments
+- ✅ Real-time features via **Socket.IO** · Dockerized for production deployment
 
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=flat-square)](https://your-live-link.com)
-[![API Docs](https://img.shields.io/badge/API-Docs-blue?style=flat-square)](https://your-api-doc-link.com)
-[![Source](https://img.shields.io/badge/Source-Code-grey?style=flat-square&logo=github)](https://github.com/nirob844)
+[![Live Demo](https://img.shields.io/badge/🌐_Live-Demo-00e5a0?style=flat-square)](https://your-live-link.com)
+[![API Docs](https://img.shields.io/badge/📄_API-Docs-3178C6?style=flat-square)](https://your-api-doc-link.com)
+[![Source Code](https://img.shields.io/badge/💻_Source-Code-333?style=flat-square&logo=github)](https://github.com/nirob844)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirob844&theme=default" alt="Profile Details" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirob844&theme=default" alt="Repos Per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nirob844&theme=default" alt="Most Commit Language" />
-</p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nirob844&theme=github_dark" alt="Profile Details" width="100%" />
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nirob844&theme=default" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nirob844&theme=default&utcOffset=6" alt="Productive Time" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nirob844&card_width=500" alt="GitHub Streak" />
-</p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nirob844&theme=github_dark" alt="Repos Per Language" height="160" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nirob844&theme=github_dark" alt="Most Commit Language" height="160" />
+
+<br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nirob844&theme=github_dark" alt="Stats" height="160" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nirob844&theme=github_dark&utcOffset=6" alt="Productive Time" height="160" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=nirob844&theme=dark&hide_border=true&background=0d1117&ring=00e5a0&fire=7b6cff&currStreakLabel=00e5a0&card_width=500" alt="GitHub Streak" />
+
+</div>
 
 ---
 
@@ -104,3 +118,9 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <sub>⚡ Building scalable systems, one commit at a time.</sub>
+</div>
