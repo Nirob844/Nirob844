@@ -54,33 +54,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-<table>
-<tr>
-<td width="100%">
-
-### 📚 LMS Backend Platform
-> A SaaS-ready Learning Management System backend built for scale
-
-**Tech Stack:** `NestJS` `TypeScript` `PostgreSQL` `Redis` `BullMQ` `Socket.IO` `Docker`
-
-- ✅ Scalable modular architecture with **Clean Architecture** principles
-- ✅ **RBAC** (Role-Based Access Control) for multi-role user management
-- ✅ Event-driven background jobs for async processing & notifications
-- ✅ Secure **RESTful APIs** for course management, enrollment & assessments
-- ✅ Real-time features via **Socket.IO** · Dockerized for production deployment
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live-Demo-00e5a0?style=flat-square)](https://your-live-link.com)
-[![API Docs](https://img.shields.io/badge/📄_API-Docs-3178C6?style=flat-square)](https://your-api-doc-link.com)
-[![Source Code](https://img.shields.io/badge/💻_Source-Code-333?style=flat-square&logo=github)](https://github.com/nirob844)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -108,13 +81,13 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nirob-hasan-156ab9258/" target="_blank">
+  <a href="https://www.linkedin.com/in/nirob-hossain-alip/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nirobhossainalip@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://fb.com/nirobhasan" target="_blank">
+  <a href="https://www.facebook.com/nirob.hasan.alip/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
