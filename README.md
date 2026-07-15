@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Nirob Hossain 👋
+# Hi there, I'm Nirob Hosen Alip 👋
 
 ### Backend Software Engineer
 **Node.js · NestJS · TypeScript · PostgreSQL**
