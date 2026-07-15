@@ -6,7 +6,7 @@
 **Node.js · NestJS · TypeScript · PostgreSQL**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nirob844&label=Profile%20views&color=00e5a0&style=flat)](https://github.com/nirob844)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirob-hasan-156ab9258/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirob-hossain-alip/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nirobhossainalip@gmail.com)
 
 </div>
