@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working as **Backend Developer @ Softvence Delta**
+- 🔭 Currently working as **Backend Developer @ Backbencher Studio**
 - 🌱 Deepening knowledge in **Microservices, Go (Gin), and Cloud (AWS)**
 - 💡 Passionate about **Clean Architecture, SOLID principles & Scalable SaaS systems**
 - 🎓 B.Sc. in Software Engineering — **Daffodil International University** *(2022 – 2025)*
